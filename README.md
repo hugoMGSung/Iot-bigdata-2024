@@ -45,6 +45,15 @@
     - [맷플롭립](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day1/bda03_matplotlib_basic.ipynb)
 
 ## 2일차
+- 빅데이터 학습
+    - 기초학습, 크롤링 관련
+    - 셀레니움 + 뷰티플수프 같이 진행    
+    - [뷰티플수프]()
+    - [셀레니움]()
+
+- 빅데이터 실습
+    - 스타벅스 입지 분석
+    - [스벅입지분석]()
 
 ## 3일차
 
