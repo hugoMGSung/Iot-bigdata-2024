@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 /day7/data/MNIST
 /day7/data/FashionMNIST
+*.mp4
+day8/yolov8n.pt
